@@ -1,0 +1,50 @@
+
+.type{
+    color:black;
+};
+    
+body{
+    font-family: Helvetica;
+    color:red;
+    background: #777;
+    width: "960px";
+    font-size: 18px;
+    align-content: center;
+};
+
+.header{
+    color:black;
+    background-color: #ebebeb;
+    align-content: center;
+    border-width:10px;
+    border-style:solid;
+    border-color: green;
+    width: auto;    
+};
+
+.nav{
+    color: black;
+    background-color: #ebebeb;
+    align-content: center;
+    border:10px solid black;
+};
+
+.aside{};
+
+.section{
+    color: black;
+    border: 10px solid gray;
+};
+
+.article{};
+
+.subheaders{};
+
+.paragraph{};
+
+a:link{
+    color:red;
+}
+a:visited{
+    color:peru;
+}
