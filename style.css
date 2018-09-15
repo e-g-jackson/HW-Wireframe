@@ -1,50 +1,73 @@
 
 .type{
     color:black;
-};
+}
     
 body{
     font-family: Helvetica;
-    color:red;
+    color:#777;
     background: #777;
-    width: "960px";
+    width: 960px;
     font-size: 18px;
     align-content: center;
-};
+}
 
 .header{
     color:black;
     background-color: #ebebeb;
-    align-content: center;
+    text-align: center;
     border-width:10px;
     border-style:solid;
-    border-color: green;
-    width: auto;    
-};
+    border-color: #ebebeb;
+    margin: 10px;
+    width: auto; 
+}
 
 .nav{
     color: black;
     background-color: #ebebeb;
-    align-content: center;
-    border:10px solid black;
-};
+    text-align: center;
+    border:10px solid black #ebebeb;
+    padding: 20px;
+    margin: 10px;
+}
 
-.aside{};
+.aside{
+    color: black;
+    background-color: #ebebeb;
+    width: 400px;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    height: 320px;
+}
 
 .section{
     color: black;
-    border: 10px solid gray;
-};
-
-.article{};
-
-.subheaders{};
-
-.paragraph{};
-
-a:link{
-    color:red;
+    background-color: #ebebeb;
+    text-align: center;
+    width: 450px;
+    padding: 25px;
 }
-a:visited{
-    color:peru;
+
+.article{
+    background-color: #777;
+    color: #ffffff;
+    text-align: center;
+    border: 20px solid #777;
+    margin: 20px;
+}
+
+.subheaders{
+    color:black;
+    background-color: #ebebeb;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer{
+    color:black;
+    text-align: center;
+    padding: 20px;
+    background-color:#ebebeb;
 }
